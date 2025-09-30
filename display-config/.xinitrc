@@ -1,0 +1,12 @@
+/usr/bin/google-chrome \
+  --kiosk \
+  --app=http://192.168.60.6:8090 \
+  --no-first-run \
+  --disable-translate \
+  --no-sandbox \
+  --start-fullscreen \
+  --window-position=0,0 \
+  --window-size=1920,1080 \
+  --force-device-scale-factor=1 \
+  --alsa-output-device=default \
+  --autoplay-policy=no-user-gesture-required
