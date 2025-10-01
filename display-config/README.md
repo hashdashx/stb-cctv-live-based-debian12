@@ -1,6 +1,6 @@
 # Headless STB Based on Debian 12 (No GUI/Desktop Environment)
 
-Proyek ini membuat **Set-Top Box (STB) headless** berbasis **Debian 12** yang menjalankan **Google Chrome** dalam mode **kiosk fullscreen** tanpa Desktop Environment (DE).  
+Proyek ini membuat **Set-Top Box (STB) headless** berbasis **Debian 12** yang menjalankan **Google Chrome** dalam mode **kiosk fullscreen** tanpa Desktop Environment (DE) menjadi sangat ringan tanpa karna (DE) cocok untuk pc lawas.  
 Cocok untuk kebutuhan **digital signage**, **dashboard monitoring**, atau **NVR viewer** ringan.
 
 ---
