@@ -26,7 +26,7 @@ Proyek ini menunjukkan cara menjadikan **Wyse ZX0 (Debian 12)** sebagai **VNC cl
 ### 1. Install paket minimal
 ```bash
 sudo apt update
-sudo apt install -y xorg tigervnc-viewer xdotool
+sudo apt install -y xorg xinit tigervnc-viewer xdotool
 
 ```
 
@@ -96,7 +96,7 @@ This project demonstrates how to turn **Wyse ZX0 (Debian 12)** into a **pure VNC
 ### 1. Install minimal packages
 ```bash
 sudo apt update
-sudo apt install -y xorg tigervnc-viewer
+sudo apt install -y xorg xinit tigervnc-viewer xdotool
 ```
 
 > `xorg` = minimal X server for `xinit`  
