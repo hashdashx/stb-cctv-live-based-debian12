@@ -1,13 +1,13 @@
 # Headless STB Based on Debian 12 (No GUI/Desktop Environment)
 
-Proyek ini membuat **Set-Top Box (STB) headless** berbasis **Debian 12** yang menjalankan **Google Chrome** dalam mode **kiosk fullscreen** tanpa Desktop Environment (DE) atau GUI penuh.  
+Proyek ini membuat **Set-Top Box (STB) headless** berbasis **Debian 12** yang menjalankan **Google Chrome** dalam mode **kiosk fullscreen** tanpa Desktop Environment (DE).  
 Cocok untuk kebutuhan **digital signage**, **dashboard monitoring**, atau **NVR viewer** ringan.
 
 ---
 
 ## 📦 Paket yang Dibutuhkan
 
-Update sistem dan install driver GPU + paket dasar:
+Update sistem dan install driver GPU (sesuaikan dengan perangkat anda) + paket dasar:
 
 ```bash
 apt update
