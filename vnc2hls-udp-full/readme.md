@@ -22,7 +22,7 @@ Sehingga bisa ditonton di **VLC, browser modern, maupun LG NetCast Smart TV** la
      └──► LG NetCast Smart TV (via browser)
 ```
 
-##sebelumnya jalankan dulu vnc-sever.sh ya di server
+## sebelumnya jalankan dulu vnc-sever.sh ya di server
 ```
 file vnc-sever.sh sudah ada disini
 ```
